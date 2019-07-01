@@ -1,13 +1,9 @@
-
-'branch: master:';
-
-
-let y = 120;
+'branch: branch_test.';
 
 
-console.log('The new number is: ', x);
+let x =1;
 
 
 
 
-
+console.log('the old number is: ', x);
